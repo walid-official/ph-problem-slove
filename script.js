@@ -33,3 +33,13 @@ console.log(average.toFixed(2));
 let numbers = 119;
 let result = 119 % 5;
 console.log(result);
+
+// problem 4
+
+var a = isNaN(11);
+
+console.log(a);
+
+var b = isNaN(2-10);
+
+console.log(b);
