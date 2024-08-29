@@ -1,3 +1,5 @@
+// problem 1
+
 let orange = 300;
 let apple = 400;
 let total = orange + apple;
@@ -9,15 +11,13 @@ console.log(shopKipper);
 // let orange = parseInt(prompt('Enter Your Number :'));
 // let apple = parseInt(prompt('Enter Your Number :'));
 // let customer = parseInt(prompt('Enter Your Number :'));
-
 // let total = orange + apple;
 // let shopKipper = customer - total;
-
 // console.log(shopKipper);
 
+// problem 2
 
 let Mathematics, Biology, Chemistry, Physics, Bangla;
-
 Mathematics = 75.25;
 Biology = 65;
 Chemistry = 80; 
@@ -26,3 +26,10 @@ Bangla = 99.50;
 total = Mathematics + Biology + Chemistry + Physics + Bangla;
 const average = total / 5;
 console.log(average.toFixed(2));
+
+
+// problem 3
+
+let numbers = 119;
+let result = 119 % 5;
+console.log(result);
